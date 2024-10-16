@@ -110,7 +110,7 @@ jobs:
           command: python ./test_btec_script.py
   build-linux-amd64:
     machine:
-      image: ubuntu-2004:202201-02
+      image: ubuntu-2204:edge
     working_directory: ~/repo
     steps:
       - checkout
@@ -157,7 +157,7 @@ jobs:
           path: /tmp/artifacts
   build-linux-arm64:
     machine:
-      image: ubuntu-2004:202201-02
+      image: ubuntu-2204:edge
     resource_class: arm.medium
     working_directory: ~/repo
     steps:
