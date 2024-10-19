@@ -2,6 +2,14 @@
 
 [![GitPOAP Badge](https://public-api.gitpoap.io/v1/repo/ethereum/staking-deposit-cli/badge)](https://www.gitpoap.io/gh/ethereum/staking-deposit-cli)
 
+**DOROL VERSION OF ethereum/staking-deposit-cli**
+
+this version of the staking-deposit-cli is a fork of the original ethereum/staking-deposit-cli with the following changes:
+
+Add data for build DOROL blockchain specific data for proper validator key generation.
+
+! ATTENTION: Do not use this version for Ethereum 2.0 staking, it is only for DOROL blockchain!
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
