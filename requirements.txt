@@ -52,7 +52,8 @@ mypy-extensions==0.4.3 \
 lru-dict==1.3.0 \
     --hash=sha256:9710737584650a4251b9a566cbb1a86f83437adb209c9ba43a4e756d12faf0d7 \
     --hash=sha256:1ecb7ae557239c64077e9b26a142eb88e63cddb104111a5122de7bebbbd00098 \
-    --hash=sha256:0fce5f95489ca1fc158cc9fe0f4866db9cec82c2be0470926a9080570392beaf
+    --hash=sha256:0fce5f95489ca1fc158cc9fe0f4866db9cec82c2be0470926a9080570392beaf \
+    --hash=sha256:2789296819525a1f3204072dfcf3df6db8bcf69a8fc740ffd3de43a684ea7002
 pyrsistent==0.16.1 \
     --hash=sha256:aa2ae1c2e496f4d6777f869ea5de7166a8ccb9c2e06ebcf6c7ff1b670c98c5ef
 eth-hash==0.3.2 \
